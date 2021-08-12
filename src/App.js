@@ -22,7 +22,7 @@ function App() {
     <Header/>
     <MainPages/>
     </div>
-    
+      
    
     </Router>
     </DataProvider>

@@ -21,6 +21,7 @@ code {
   margin: 0 auto;
   padding: 0 20px;
   background-image: url('./images/body.jpg');
+  background-color: burlywood;
 }
 a{
   text-decoration: none;
